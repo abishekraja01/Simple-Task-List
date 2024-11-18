@@ -1,6 +1,6 @@
 # Simple-Task-List
 
-Overview
+
 The Task List Application is a simple Java-based console application that allows users to manage a list of tasks. Users can add tasks, remove tasks, and view the list of tasks. This application is a great way to practice basic Java programming concepts including ArrayList, Scanner, and control structures.
 
 How It Works
