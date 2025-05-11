@@ -63,7 +63,7 @@ public class TaskListApp {
 
     private static String getTaskName(Scanner scan) {
         System.out.print("Enter the Task Name : ");
-        return scan.next();
+        return scan.nextLine();
     }
 
     private static int getUserInput(Scanner scan) {
